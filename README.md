@@ -5,7 +5,6 @@
 
 *major : Software Convergence*  
 
-&#127807; I'm currently developing now  
-&#128692; I'm interested in the Front-End</br>  
+&#127807; I'm currently developing now   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ddyeon&layout=compact)
