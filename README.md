@@ -5,4 +5,4 @@
 
 *major : Software Convergence*  
 
-&#127807; I'm currently developing now   
+&#127807; Android Developer 
