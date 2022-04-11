@@ -1,8 +1,12 @@
-### 👋
+# 🐻‍❄️️Dayeon
+---
+Education
+    - Seoul Women's Universtiy
+Major
+    - Software Convergence 
 
-<!--
-**ddyeon/ddyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+#### Skill
 
-*major : Software Convergence*  
-
-&#127807; Android Developer 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
