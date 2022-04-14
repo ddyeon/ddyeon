@@ -2,7 +2,7 @@
 
 🏫 Education : Seoul Women's Universtiy
 
-📱 Major :Software Convergence   
+📱 Major : Software Convergence   
 
 ### Skills 
 
