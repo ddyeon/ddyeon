@@ -4,6 +4,8 @@
 
 📱 Major : Software Convergence   
 
+💻 Blog : https://reco-dy.tistory.com/
+
 ### Skills 
 
 **Platform & Language**  
